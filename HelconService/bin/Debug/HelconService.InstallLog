@@ -1,0 +1,13 @@
+﻿Installing assembly 'C:\Users\Felix\source\repos\HelconService\HelconService\bin\Debug\HelconService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Felix\source\repos\HelconService\HelconService\bin\Debug\HelconService.InstallLog
+   assemblypath = C:\Users\Felix\source\repos\HelconService\HelconService\bin\Debug\HelconService.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Users\Felix\source\repos\HelconService\HelconService\bin\Debug\HelconService.exe assembly.
+Committing assembly 'C:\Users\Felix\source\repos\HelconService\HelconService\bin\Debug\HelconService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Felix\source\repos\HelconService\HelconService\bin\Debug\HelconService.InstallLog
+   assemblypath = C:\Users\Felix\source\repos\HelconService\HelconService\bin\Debug\HelconService.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Users\Felix\source\repos\HelconService\HelconService\bin\Debug\HelconService.exe assembly.
+Remove InstallState file because there are no installers.
